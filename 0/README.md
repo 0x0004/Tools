@@ -8,7 +8,7 @@
 Into any folder, create a desktop shortcut.
 The desktop shortcut- right click- Properties- Advanced- check "run as Administrator".
 Double-click the desktop shortcut.
-You can use real-time priority to end the game. 
+You already used real-time priority to end the game and enabled power saving mode to reduce the fan noise.
 ```
 </br>
 </br>
