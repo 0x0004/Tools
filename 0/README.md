@@ -1,8 +1,8 @@
-#0.bat
+# 0.bat
 </br>
-##End the game with the fastest speed.
+## End the game with the fastest speed.
 </br>
-###Usage:
+### Usage:
 </br>
 ```
 Into any folder, create a desktop shortcut.
@@ -12,4 +12,4 @@ You already use real-time priority to end the game and enabled power saving mode
 ```
 </br>
 </br>
-##No longer afraid mom coming.:sun_with_face:
+## No longer afraid mom coming.:sun_with_face:
